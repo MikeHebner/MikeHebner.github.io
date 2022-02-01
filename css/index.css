@@ -1,8 +1,16 @@
+body {
+  background-image: url("hubbleUDF.jpg");
+}
 .header {
-    padding: 30px;
+    padding: 10px;
     text-align: center;
     background: white;
-    
+    opacity: .75;
   }
+.nav {
+  background-color: white;
+  opacity: .75;
+}
+
 
 
