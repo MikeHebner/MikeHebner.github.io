@@ -5,11 +5,6 @@
   }
 
 img {
-    width: 100%;
+    width: 50%;
     height: auto;
-}
-.topnav{
-    position: fixed;
-    top: 0;
-    width: 100%;
 }
