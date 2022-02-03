@@ -12,5 +12,13 @@ body {
   opacity: .75;
 }
 
+.inspire{
+  background-color: black;
+  color: rgb(255, 0, 0);
+}
 
-
+.myself {
+  text-align: center;
+  background-color: yellow;
+  color: black;
+}
