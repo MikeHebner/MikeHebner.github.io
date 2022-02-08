@@ -10,8 +10,6 @@
 
 .nameBlock {
     margin-top: 30%;
-    top: 50%; 
-    /* left: 50%; */
     position: relative;
     text-align: center;
     color: white;
@@ -24,8 +22,7 @@
 }
 
 .menuBlock {
-    top: 10%;
-    /* left: 50%; */
+    margin-top: 10%;
     position: relative;
     text-align: center;
     color: white;
