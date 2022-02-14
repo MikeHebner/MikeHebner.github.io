@@ -24,4 +24,9 @@
     text-align: center;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    
+}
+#links {
+    color: white;
+    text-decoration: none;
 }
