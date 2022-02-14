@@ -1,27 +1,10 @@
-#backgroundVid {
-    object-fit: cover;
-    position: fixed;
-    right: 0;
-    bottom:0;
-    min-width: 100%;
-    min-height: 100%;
-
-}
-.nameBlock {
-    margin-top: 30%;
-    position: relative;
+.myself {
     text-align: center;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-}
-.row {
-    height: fit-content;
-    
-}
-.menuBlock {
-    margin-top: 10%;
-    position: relative;
-    text-align: center;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+    color: black;
+  }
+@media screen and (max-width: 900px) and (min-width: 400px) {
+  .myself{
+    background-color: pink;
+  }
 }

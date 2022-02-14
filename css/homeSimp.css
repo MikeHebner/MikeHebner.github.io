@@ -1,0 +1,28 @@
+body {
+  background-image: url("hubbleUDF.jpg");
+}
+.header {
+    padding: 10px;
+    text-align: center;
+    background: white;
+    opacity: .75;
+  }
+.nav {
+  background-color: white;
+  opacity: .75;
+}
+
+.inspire{
+  background-color: black;
+  color: rgb(255, 0, 0);
+}
+
+.myself {
+  text-align: center;
+  background-color: yellow;
+  color: black;
+}
+
+.navImg {
+  align-self: center;
+}
